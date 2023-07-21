@@ -18,11 +18,11 @@ You can view the results in Pymaceuticals/pymaceuticals.ipynb. If you want to ru
 
 Drug Effectiveness:
 
-![Comparison of drug treatments to final tumor volume](../Images/boxplot.png)
+![Comparison of drug treatments to final tumor volume](Images/boxplot.png)
 
 Example results for a single mouse:
 
-![Mouse l509](../Images/single_mouse.png)
+![Mouse l509](Images/mouse_l509.png)
 
 ## Acknowledgments
 
